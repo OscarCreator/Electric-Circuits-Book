@@ -15,4 +15,8 @@ Ohm's law is used to calculate the resistance with the current (I) and the volta
 
 ## Memorize
 
-Think the flow (speed of traffic) before the resistor as a motorway and the flow (speed of traffic) through the resistor as a small country road. If all the cars from the motorway drives in on the small country road, the speed of the traffic will slow down. This will reduce the **flow** through the resistor.
+Think the **flow** (speed of traffic) before the resistor as a motorway and the **flow**  through the resistor as a small country road. If all the cars from the motorway drives in on the small country road, the speed of the traffic will slow down. This will reduce the **flow** of the traffic.
+
+## Read more
+
+ - Wikipedia - https://wikipedia.org/wiki/Resistor
