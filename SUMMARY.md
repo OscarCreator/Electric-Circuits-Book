@@ -4,10 +4,10 @@
 
 ## Components
 
-* [Resistor](resistor.md)
-* [Induktor](inductor.md)
+* [Resistor](components/resistor.md)
+* [Inductor](components/inductor.md)
 
-## Circuits <a id="circuits-1"></a>
+## Circuits
 
-* [Operational amplifier](circuits-1/operational-amplifier.md)
+* [Operational amplifier](circuits/operational-amplifier.md)
 
