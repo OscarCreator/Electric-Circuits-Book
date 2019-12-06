@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113.784pt" height="12.703pt" viewBox="0 0 113.784 12.703" version="1.2">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="170.477pt" height="24.608pt" viewBox="0 0 170.477 24.608" version="1.2">
 <defs>
 <clipPath id="clip1">
-  <path d="M 1.195313 6 L 112.378906 6 L 112.378906 7 L 1.195313 7 Z M 1.195313 6 "/>
+  <path d="M 1.078125 11 L 168.882813 11 L 168.882813 13 L 1.078125 13 Z M 1.078125 11 "/>
 </clipPath>
 <clipPath id="clip2">
-  <path d="M 40 0 L 73 0 L 73 12.414063 L 40 12.414063 Z M 40 0 "/>
+  <path d="M 53 0 L 117 0 L 117 24.222656 L 53 24.222656 Z M 53 0 "/>
 </clipPath>
 </defs>
 <g id="surface1">
 <g clip-path="url(#clip1)" clip-rule="nonzero">
-<path style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.00198599 -0.000153527 L 0.197867 -0.000153527 M 0.00198599 -0.000153527 L 40.821268 -0.000153527 M 72.566046 -0.000153527 L 113.385328 -0.000153527 M 113.189447 -0.000153527 L 113.385328 -0.000153527 " transform="matrix(0.977154,0,0,-0.977154,1.388684,6.206881)"/>
+<path style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M -0.00160738 0.00172533 L 0.399209 0.00172533 M -0.00160738 0.00172533 L 53.291053 0.00172533 M 116.790632 0.00172533 L 170.079324 0.00172533 M 169.682477 0.00172533 L 170.079324 0.00172533 " transform="matrix(0.98432,0,0,-0.98432,1.27502,12.111073)"/>
 </g>
 <g clip-path="url(#clip2)" clip-rule="nonzero">
-<path style="fill:none;stroke-width:0.797;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 40.821268 5.952242 L 72.566046 5.952242 L 72.566046 -5.952549 L 40.821268 -5.952549 Z M 40.821268 5.952242 " transform="matrix(0.977154,0,0,-0.977154,1.388684,6.206881)"/>
+<path style="fill:none;stroke-width:0.797;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 116.790632 -11.90767 L 53.291053 -11.90767 L 53.291053 11.907152 L 116.790632 11.907152 Z M 116.790632 -11.90767 " transform="matrix(0.98432,0,0,-0.98432,1.27502,12.111073)"/>
 </g>
 </g>
 </svg>

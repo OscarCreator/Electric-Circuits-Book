@@ -1,4 +1,4 @@
-\documentclass[tikz,convert={outfile=\jobname.svg}]{standalone}
+\documentclass[tikz]{standalone}
 %\usetikzlibrary{...}% tikz package already loaded by 'tikz' option
 
 \usepackage{circuitikz}
@@ -8,10 +8,10 @@
 
 \begin{document}
 
-\begin{tikzpicture}[ american voltages]
+\begin{tikzpicture}[ american voltages, scale=2, every node/.style={scale=2}]
 \draw
   (0,0)  
-  to [R] (4,0);
+  to [R] (3,0);
   \end{tikzpicture}
 
 
