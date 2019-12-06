@@ -29,12 +29,12 @@
 <g clip-path="url(#clip1)" clip-rule="nonzero">
 <path style="fill:none;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M -0.000881029 0.000159576 L 0.400261 0.000159576 M -0.000881029 0.000159576 L 53.29201 0.000159576 M 116.790425 0.000159576 L 170.079383 0.000159576 M 116.790425 0.000159576 L 170.079383 0.000159576 M 169.682174 0.000159576 L 170.079383 0.000159576 " transform="matrix(0.993258,0,0,-0.993258,0.512594,34.054846)"/>
 </g>
-<path style="fill:none;stroke-width:0.797;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 116.790425 -11.904318 L 53.29201 -11.904318 L 53.29201 11.904638 L 116.790425 11.904638 Z M 116.790425 -11.904318 " transform="matrix(0.993258,0,0,-0.993258,0.512594,34.054846)"/>
+<path style="fill:none;stroke-width:0.797;stroke-linecap:butt;stroke-linejoin:bevel;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 52.894801 -0.161084 C 52.894801 6.414498 56.49328 11.747327 60.929439 11.747327 C 65.36953 11.747327 68.968009 6.414498 68.968009 -0.161084 C 68.968009 6.414498 72.566488 11.747327 77.002647 11.747327 C 81.442738 11.747327 85.041217 6.414498 85.041217 -0.161084 C 85.041217 6.414498 88.639697 11.747327 93.075855 11.747327 C 97.515946 11.747327 101.114426 6.414498 101.114426 -0.161084 C 101.114426 6.414498 104.712905 11.747327 109.149063 11.747327 C 113.589154 11.747327 117.187634 6.414498 117.187634 -0.161084 " transform="matrix(0.993258,0,0,-0.993258,0.512594,34.054846)"/>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
-  <use xlink:href="#glyph0-1" x="16.945055" y="25.702539"/>
+  <use xlink:href="#glyph0-1" x="21.745471" y="25.702539"/>
 </g>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
-  <use xlink:href="#glyph1-1" x="137.619951" y="25.702539"/>
+  <use xlink:href="#glyph1-1" x="132.818541" y="25.702539"/>
 </g>
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
   <use xlink:href="#glyph0-2" x="77.557635" y="17.481342"/>
