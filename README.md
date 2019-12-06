@@ -5,3 +5,4 @@ This book will contain information about electric components and circuits. How t
 ## Source Code
 
 The source code for the book is on [GitHub](https://github.com/OscarCreator/Electric-Circuits-Book).
+
