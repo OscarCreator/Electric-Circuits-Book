@@ -8,6 +8,7 @@
 * [Inductor](components/inductor.md)
 * [Capacitor](components/capacitor.md)
 * [Diod](components/diod.md)
+* [Transistor](components/transistor.md)
 
 ## Circuits
 
