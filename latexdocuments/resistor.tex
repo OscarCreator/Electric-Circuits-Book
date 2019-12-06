@@ -1,0 +1,18 @@
+\documentclass[tikz,convert={outfile=\jobname.svg}]{standalone}
+%\usetikzlibrary{...}% tikz package already loaded by 'tikz' option
+
+\usepackage{circuitikz}
+\ctikzset{resistor = european}
+\ctikzset{inductor = american}
+\ctikzset{voltage = american}
+
+\begin{document}
+
+\begin{tikzpicture}[ american voltages]
+\draw
+  (0,0)  
+  to [R] (4,0);
+  \end{tikzpicture}
+
+
+\end{document}
