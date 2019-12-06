@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Electric-Circuits-Book](README.md)
+* [Electric Circuits Book](README.md)
 
 ## Components
 

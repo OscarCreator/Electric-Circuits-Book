@@ -1,17 +1,18 @@
 # Resistor
 
-A resistor is used to reduce flow in a circuit. The voltage drop over the resistor is proportional to the size of the resistor.  
+A resistor is used to reduce flow in a circuit. The voltage drop over the resistor is proportional to the size of the resistor.
 
-<div style="text-align:center">
+<div align="center"/>
   <img src="../latexdocuments/resistor.svg" alt="Symbol of resistor."/>
 </div>
 
 
 Ohm's law is used to calculate the resistance with the current (I) and the voltage (U)
 
-<div style="text-align:center">
+<div align="center"/>
   <img src="../latexdocuments/ohms_law.svg" alt="Ohm's law."/>
 </div>
+
 
 ## Memorize
 
