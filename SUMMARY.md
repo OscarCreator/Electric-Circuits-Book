@@ -5,7 +5,7 @@
 ## Components
 
 * [Resistor](resistor.md)
-* [Induktor](induktor.md)
+* [Induktor](inductor.md)
 
 ## Circuits <a id="circuits-1"></a>
 
